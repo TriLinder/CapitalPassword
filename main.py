@@ -41,6 +41,6 @@ def registerHandler() :
     if not listInStr(capitals, pswd) :
         return render_template("register.html", error="Your password must include at least 1 capital", usr=usr, pswd=pswd)
 
-    return "<h3>You are now registred..</h3>"
+    return "<h3>You are now registered..</h3>"
 
 app.run(debug=False, host="0.0.0.0", port=5000) 
