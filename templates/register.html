@@ -1,0 +1,24 @@
+<html>
+    <body>
+        <form action="/register-handler" method="post">
+            Username: <input type="text" name="username" placeholder="Username" value="{{usr}}"> <br>
+            Password: <input type="password" id="password" name="password" placeholder="Password" value="{{pswd}}">
+            <p style="color: red;">{{error}}</p>
+            <input type="submit" value="Register"> <input type="checkbox" id="visible" onclick="switchVisibility()">Show password
+    
+        <script>
+            function switchVisibility() {
+                console.log("Switiching vis..")
+                var pswdInput = document.getElementById("password");
+                if (pswdInput.type === "password") {
+                    console.log("Visible");
+                    pswdInput.type = "text";
+                } else {
+                    console.log("Invisible");
+                    pswdInput.type = "password";
+                }
+            }
+        </script>
+
+    </body>
+</html>
