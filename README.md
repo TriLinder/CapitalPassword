@@ -1,4 +1,4 @@
-# CapitalPassword
+# BupapestPassword
 
  A register form making you enter a password with a capital city
 
@@ -8,4 +8,4 @@
 
 
 
-List of capital cities is as of 21.10.2021, based on [Wikipedia](https://simple.wikipedia.org/wiki/List_of_national_capitals).
+List of capital cities is as of 21.10.2021, based on [Wikipedia](https://simple.wikipedia.org/wiki/List_of_national_capitals). WILL BE DETERMINATED
