@@ -2,7 +2,6 @@ Abu Dhabi
 Abuja
 Accra
 Adamstown
-British Overseas Territory
 Addis Ababa
 Algiers
 Alofi
@@ -29,7 +28,6 @@ Basseterre
 Beijing
 Beirut
 Belfast
-Country of the United Kingdom
 Belgrade
 Belmopan
 Berlin
@@ -50,15 +48,12 @@ Cairo
 Canberra
 Caracas
 Cardiff
-Country of the United Kingdom
 Castries
 Cayenne
-Overseas department of France
 Charlotte Amalie
 Territory
 Chisinau
 Cockburn Town
-British Overseas Territory
 Conakry
 Copenhagen
 Dakar
@@ -72,32 +67,25 @@ Douglas
 Dublin
 Dushanbe
 Edinburgh
-Country of the United Kingdom
 Edinburgh of the Seven Seas
-British Overseas Territory
 El Aaiún
 Episkopi Cantonment
-British Overseas Territory
 Flying Fish Cove
 External territory
 Freetown
 Funafuti
 Gaborone
 George Town
-British Overseas Territory
 Georgetown
 Georgetown
 Gibraltar
-British Overseas Territory
 Grytviken
-British Overseas Territory
 Guatemala City
 Gustavia
 Overseas collectivity
 Hagåtña
 Territory
 Hamilton
-British Overseas Territory
 Hanga Roa
 Hanoi
 Harare
@@ -108,7 +96,6 @@ Honiara
 Islamabad
 Jakarta
 Jamestown
-British Overseas Territory
 Jerusalem
 Jerusalem
 Juba
@@ -155,7 +142,6 @@ Mexico City
 Minsk
 Mogadishu
 Monaco
-City-state
 Monrovia
 Montevideo
 Moroni
@@ -190,7 +176,6 @@ Paris
 Philipsburg
 Phnom Penh
 Plymouth
-British Overseas Territory
 Podgorica
 Port Louis
 Port Moresby
@@ -209,7 +194,6 @@ Reykjavík
 Riga
 Riyadh
 Road Town
-British Overseas Territory
 Rome
 Roseau
 Saipan
@@ -226,7 +210,6 @@ São Tomé
 Sarajevo
 Seoul
 Singapore
-City-state
 Skopje
 Sofia
 South Tarawa
@@ -238,7 +221,6 @@ St. Peter Port
 St. Pierre
 Overseas collectivity
 Stanley
-British Overseas Territory
 Stepanakert
 Stockholm
 Sucre
@@ -264,9 +246,7 @@ Ulaanbaatar
 Vaduz
 Valletta
 The Valley
-British Overseas Territory
 Vatican City
-City-state
 Victoria
 Vienna
 Vientiane
