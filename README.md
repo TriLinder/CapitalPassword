@@ -8,4 +8,4 @@
 
 
 
-List of capital cities is as of 21.10.2021, based on [Wikipedia](https://simple.wikipedia.org/wiki/List_of_national_capitals).
+List of capital cities is as of 21.10.2021, based on [Wikipedia - National capitals](https://simple.wikipedia.org/wiki/List_of_national_capitals) and [Wikipedia - US Capitals](https://en.wikipedia.org/wiki/List_of_capitals_in_the_United_States).
