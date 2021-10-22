@@ -36,7 +36,7 @@ def registerHandler() :
         return render_template("register.html", error="Your password must include at least 1 number", usr=usr, pswd=pswd)
     
     if not listInStr(["?","!","#","@"], pswd) :
-        return render_template("register.html", error="Your password must include at least 1 of theese characters: ?!#@", usr=usr, pswd=pswd)
+        return render_template("register.html", error="Your password must include at least 1 of these characters: ?!#@", usr=usr, pswd=pswd)
     
     if not listInStr(capitals, pswd) :
         return render_template("register.html", error="Your password must include at least 1 capital", usr=usr, pswd=pswd)
