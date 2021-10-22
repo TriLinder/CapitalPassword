@@ -3,19 +3,23 @@ Abuja
 Accra
 Adamstown
 Addis Ababa
+Albany
 Algiers
 Alofi
 Amman
 Amsterdam
 Andorra la Vella
 Ankara
+Annapolis
 Antananarivo
 Apia
 Ashgabat
 Asmara
-Nur-Sultan
 Asunción
 Athens
+Atlanta
+Augusta
+Austin
 Avarua
 Baghdad
 Baku
@@ -25,6 +29,7 @@ Bangkok
 Bangui
 Banjul
 Basseterre
+Baton Rouge
 Beijing
 Beirut
 Belfast
@@ -33,8 +38,11 @@ Belmopan
 Berlin
 Bern
 Bishkek
+Bismark
 Bissau
 Bogotá
+Boise
+Boston
 Brasília
 Bratislava
 Brazzaville
@@ -48,57 +56,71 @@ Cairo
 Canberra
 Caracas
 Cardiff
+Carson City
 Castries
 Cayenne
+Charleston
 Charlotte Amalie
-Territory
+Cheyenne
 Chisinau
 Cockburn Town
+Colombus
+Columbia
 Conakry
+Concord
+Constituent country
 Copenhagen
 Dakar
 Damascus
+Denver
+Des Moines
 Dhaka
 Dili
 Djibouti
 Dodoma
 Doha
 Douglas
+Dover
 Dublin
 Dushanbe
 Edinburgh
 Edinburgh of the Seven Seas
 El Aaiún
 Episkopi Cantonment
-Flying Fish Cove
 External territory
+Flying Fish Cove
+Frankfort
 Freetown
 Funafuti
 Gaborone
 George Town
 Georgetown
-Georgetown
 Gibraltar
 Grytviken
 Guatemala City
 Gustavia
-Overseas collectivity
 Hagåtña
-Territory
 Hamilton
 Hanga Roa
 Hanoi
 Harare
 Hargeisa
+Harrisburg
+Hartford
 Havana
+Helena
 Helsinki
 Honiara
+Honolulu
+Indianapolis
 Islamabad
+Jackson
 Jakarta
 Jamestown
-Jerusalem
+Jefferson City
 Jerusalem
 Juba
+Juneau
 Kabul
 Kampala
 Kathmandu
@@ -106,23 +128,25 @@ Khartoum
 Kiev
 Kigali
 Kingston
-Kingston
-External territory
 Kingstown
 Kinshasa
 Kuala Lumpur
 Kuwait City
 La Paz
+Lansing
 Libreville
 Lilongwe
 Lima
+Lincoln
 Lisbon
+Little Rock
 Ljubljana
 Lomé
 London
 Luanda
 Lusaka
 Luxembourg
+Madison
 Madrid
 Majuro
 Malabo
@@ -132,10 +156,8 @@ Manama
 Manila
 Maputo
 Marigot
-Overseas collectivity
 Maseru
 Mata-Utu
-Overseas collectivity
 Mbabane
 Melekoek
 Mexico City
@@ -144,66 +166,76 @@ Mogadishu
 Monaco
 Monrovia
 Montevideo
+Montgomery
+Montpelier
 Moroni
 Moscow
 Muscat
+N'Djamena
 Nairobi
+Nashville
 Nassau
 Naypyidaw
-N'Djamena
 New Delhi
 Niamey
 Nicosia
 North Nicosia
 Nouakchott
 Nouméa
-Sui generis collectivity
 Nuku
+Nur-Sultan
 Nuuk
-Constituent country
+Oklahoma City
+Olympia
 Oranjestad
 Oslo
 Ottawa
 Ouagadougou
+Overseas collectivity
 Pago Pago
-Territory
 Palikir
 Panama City
 Papeete
-Overseas collectivity
 Paramaribo
 Paris
 Philipsburg
 Phnom Penh
+Phoenix
+Pierre
 Plymouth
 Podgorica
 Port Louis
 Port Moresby
 Port Vila
-Port-au-Prince
 Port of Spain
+Port-au-Prince
 Porto-Novo
 Prague
 Praia
 Pretoria
 Pristina
+Providence
 Pyongyang
 Quito
 Rabat
+Raleigh
 Reykjavík
+Richmond
 Riga
 Riyadh
 Road Town
 Rome
 Roseau
+Sacramento
 Saipan
-Territory
+Salem
+Salt Lake City
 San José
 San Juan
-Territory
 San Marino
 San Salvador
 Sana'a
+Santa Fe
 Santiago
 Santo Domingo
 São Tomé
@@ -213,39 +245,43 @@ Singapore
 Skopje
 Sofia
 South Tarawa
+Springfield
 Sri Jayawardenapura-Kotte
 St. George's
 St. Helier
 St. John's
+St. Paul
 St. Peter Port
 St. Pierre
-Overseas collectivity
 Stanley
 Stepanakert
 Stockholm
 Sucre
+Sui generis collectivity
 Sukhumi
 Suva
 Taipei
+Tallahassee
 Tallinn
 Tarawa
 Tashkent
 Tbilisi
 Tegucigalpa
 Tehran
+The Valley
 Thimphu
 Tirana
 Tiraspol
 Tokyo
-Tórshavn
-Constituent country
+Topeka
+Trenton
 Tripoli
 Tskhinvali
 Tunis
+Tórshavn
 Ulaanbaatar
 Vaduz
 Valletta
-The Valley
 Vatican City
 Victoria
 Vienna
@@ -255,7 +291,6 @@ Warsaw
 Washington, D.C.
 Wellington
 West Island
-External territory
 Willemstad
 Windhoek
 Yamoussoukro
